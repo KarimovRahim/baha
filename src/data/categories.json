@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Первые блюда",
+    "name_en": "First Courses",
+    "item_count": 15,
+    "created_at": "2026-07-30T18:00:27.360048+00:00"
+  },
+  {
+    "id": 4,
+    "name": "Гарниры",
+    "name_en": "Side Dishes",
+    "item_count": 9,
+    "created_at": "2026-07-30T18:00:27.360048+00:00"
+  },
+  {
+    "id": 5,
+    "name": "Шашлыки",
+    "name_en": "Kebabs",
+    "item_count": 15,
+    "created_at": "2026-07-30T18:00:27.360048+00:00"
+  },
+  {
+    "id": 3,
+    "name": "Салаты",
+    "name_en": "Salads",
+    "item_count": 34,
+    "created_at": "2026-07-30T18:00:27.360048+00:00"
+  },
+  {
+    "id": 1783328565486,
+    "name": "Напитки",
+    "name_en": "Beverages",
+    "item_count": 36,
+    "created_at": "2026-07-30T18:00:27.360048+00:00"
+  },
+  {
+    "id": 8,
+    "name": "Хлеб",
+    "name_en": "Bread",
+    "item_count": 5,
+    "created_at": "2026-07-30T18:00:27.360048+00:00"
+  },
+  {
+    "id": 2,
+    "name": "Вторые блюда",
+    "name_en": "Main Courses",
+    "item_count": 47,
+    "created_at": "2026-07-30T18:00:27.360048+00:00"
+  },
+  {
+    "id": 6,
+    "name": "Десерты",
+    "name_en": "Desserts",
+    "item_count": 7,
+    "created_at": "2026-07-30T18:00:27.360048+00:00"
+  },
+  {
+    "id": 1783330799769,
+    "name": "Спиртные",
+    "name_en": "Alcoholic Beverages",
+    "item_count": 7,
+    "created_at": "2026-07-30T18:00:27.360048+00:00"
+  }
+]

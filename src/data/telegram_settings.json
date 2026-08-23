@@ -1,0 +1,14 @@
+[
+  {
+    "id": "default",
+    "bot_token": "8768201904:AAGKpJQWhcyJ_xUwdYwfyZUvtA8tMBzZBsA",
+    "chat_id": {
+      "kobul": "5279387950",
+      "syrdarya": "6284283308"
+    },
+    "chat_id_kobul": "5279387950",
+    "chat_id_syrdarya": "6284283308",
+    "is_enabled": true,
+    "updated_at": "2026-08-10T11:04:30.881+00:00"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Admin: Bakhtiyor",
+  "description": "A web application for Restaurant Baxtiyor featuring a menu, location map, and contact information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

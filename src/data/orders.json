@@ -1,0 +1,2181 @@
+[
+  {
+    "id": "36adff3f-0f59-465c-a1b8-cf4ae14f370f",
+    "created_at": "2026-06-27T11:14:52.035264+00:00",
+    "customer_name": "Aleks",
+    "customer_phone": "353453363",
+    "customer_address": "brtrbrtb",
+    "status": "pending",
+    "total_price": 17,
+    "items": [
+      {
+        "name": "Джавари",
+        "price": 17,
+        "quantity": 1,
+        "product_id": 1782375116331
+      }
+    ],
+    "order_number": 1,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "null",
+    "telegram_chat_id": "null",
+    "telegram_message_id": "null"
+  },
+  {
+    "id": "e6d522a5-6e15-4f57-90fe-09948db52f78",
+    "created_at": "2026-06-27T11:21:31.130944+00:00",
+    "customer_name": "Aleks",
+    "customer_phone": "353453363",
+    "customer_address": "brtrbrtb",
+    "status": "pending",
+    "total_price": 34,
+    "items": [
+      {
+        "name": "Джавари",
+        "price": 17,
+        "quantity": 2,
+        "product_id": 1782375116331
+      }
+    ],
+    "order_number": 2,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "null",
+    "telegram_chat_id": "null",
+    "telegram_message_id": "null"
+  },
+  {
+    "id": "668965a7-d435-4356-8fb1-5ab4c187c9fb",
+    "created_at": "2026-06-27T11:29:09.482833+00:00",
+    "customer_name": "Test",
+    "customer_phone": "754454004",
+    "customer_address": "Test",
+    "status": "pending",
+    "total_price": 34,
+    "items": [
+      {
+        "name": "Борщ",
+        "price": 17,
+        "quantity": 2,
+        "product_id": 1782375060308
+      }
+    ],
+    "order_number": 3,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "null",
+    "telegram_chat_id": "null",
+    "telegram_message_id": "null"
+  },
+  {
+    "id": "85fccba5-42a5-437c-b453-6bd653edc1f0",
+    "created_at": "2026-06-27T11:34:03.327994+00:00",
+    "customer_name": "Aleks",
+    "customer_phone": "534663",
+    "customer_address": "Aleks",
+    "status": "pending",
+    "total_price": 50,
+    "items": [
+      {
+        "name": "Дум Шӯрбо",
+        "price": 25,
+        "quantity": 2,
+        "product_id": 1782375151920
+      }
+    ],
+    "order_number": 4,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "null",
+    "telegram_chat_id": "null",
+    "telegram_message_id": "null"
+  },
+  {
+    "id": "f88faa1d-e39d-449a-b5c9-9eae244b74d5",
+    "created_at": "2026-06-27T11:37:31.783367+00:00",
+    "customer_name": "Text",
+    "customer_phone": "564745",
+    "customer_address": "text",
+    "status": "pending",
+    "total_price": 17,
+    "items": [
+      {
+        "name": "Борщ",
+        "price": 17,
+        "quantity": 1,
+        "product_id": 1782375060308
+      }
+    ],
+    "order_number": 5,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "null",
+    "telegram_chat_id": "null",
+    "telegram_message_id": "null"
+  },
+  {
+    "id": "4bdbcf56-398d-4681-bbc6-e0051ffbd8ac",
+    "created_at": "2026-06-27T12:12:55.555536+00:00",
+    "customer_name": "Aleks",
+    "customer_phone": "649484",
+    "customer_address": "Hsvsvd\\n",
+    "status": "completed",
+    "total_price": 50,
+    "items": [
+      {
+        "name": "Дум Шӯрбо",
+        "price": 25,
+        "quantity": 2,
+        "product_id": 1782375151920
+      }
+    ],
+    "order_number": 7,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "null",
+    "telegram_chat_id": "null",
+    "telegram_message_id": "null"
+  },
+  {
+    "id": "b89e0f8f-8113-4da6-a4cf-ac9ce12267aa",
+    "created_at": "2026-07-10T16:08:41.854646+00:00",
+    "customer_name": "Гафуров Амирчон",
+    "customer_phone": "927751817",
+    "customer_address": "Стол 23 [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 29,
+    "items": [
+      {
+        "name": "Котлета \"Бахтиёр\"",
+        "price": 27,
+        "quantity": 1,
+        "product_id": 1782377603860
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 1,
+        "product_id": 0
+      }
+    ],
+    "order_number": 22,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "56"
+  },
+  {
+    "id": "750a5ae5-0f71-41a6-b64b-e1d6e613e9a3",
+    "created_at": "2026-06-27T14:44:17.483535+00:00",
+    "customer_name": "нагслша",
+    "customer_phone": "764",
+    "customer_address": "оарс [Оплата: Банк (Эсхата)]",
+    "status": "pending",
+    "total_price": 34,
+    "items": [
+      {
+        "name": "Борщ",
+        "price": 17,
+        "quantity": 2,
+        "product_id": 1782375060308
+      }
+    ],
+    "order_number": 7,
+    "branch": "Сырдаринский",
+    "payment_method": "bank",
+    "payment_bank": "Эсхата",
+    "telegram_chat_id": "976661633",
+    "telegram_message_id": "37"
+  },
+  {
+    "id": "554d42ab-b952-46ef-a4fd-629b265afc6e",
+    "created_at": "2026-06-27T15:19:05.618574+00:00",
+    "customer_name": "лгпшмщдд",
+    "customer_phone": "77959",
+    "customer_address": "лоаглмгб [Оплата: Банк (DCity)]",
+    "status": "pending",
+    "total_price": 34,
+    "items": [
+      {
+        "name": "Джавари",
+        "price": 17,
+        "quantity": 2,
+        "product_id": 1782375116331
+      }
+    ],
+    "order_number": 8,
+    "branch": "Сырдаринский",
+    "payment_method": "bank",
+    "payment_bank": "DCity",
+    "telegram_chat_id": "976661633",
+    "telegram_message_id": "39"
+  },
+  {
+    "id": "270bf26a-1869-45c5-910e-8559822d3bad",
+    "created_at": "2026-06-27T15:19:33.840191+00:00",
+    "customer_name": "лгпшмщдд",
+    "customer_phone": "77959",
+    "customer_address": "лоаглмгб [Оплата: Банк (DCity)]",
+    "status": "processing",
+    "total_price": 75,
+    "items": [
+      {
+        "name": "Дум Шӯрбо",
+        "price": 25,
+        "quantity": 3,
+        "product_id": 1782375151920
+      }
+    ],
+    "order_number": 9,
+    "branch": "Кобул-тачик",
+    "payment_method": "bank",
+    "payment_bank": "DCity",
+    "telegram_chat_id": "6171550006",
+    "telegram_message_id": "40"
+  },
+  {
+    "id": "a918eca5-4310-40e5-8d81-d453878a854a",
+    "created_at": "2026-07-04T07:40:26.160442+00:00",
+    "customer_name": "Феруз Амонов",
+    "customer_phone": "+992920275520",
+    "customer_address": "Детский больница  [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 140,
+    "items": [
+      {
+        "name": "Бедона-жаренный",
+        "price": 25,
+        "quantity": 1,
+        "product_id": 1782376357270
+      },
+      {
+        "name": "Шашлык \"Рулет\"",
+        "price": 42,
+        "quantity": 1,
+        "product_id": 1782379852595
+      },
+      {
+        "name": "Тефтель Шӯрбо",
+        "price": 20,
+        "quantity": 1,
+        "product_id": 1782375642665
+      },
+      {
+        "name": "Вырезка",
+        "price": 40,
+        "quantity": 1,
+        "product_id": 1782379516603
+      },
+      {
+        "name": "Кулча",
+        "price": 3,
+        "quantity": 1,
+        "product_id": 1782378929393
+      },
+      {
+        "name": "Фатири пиёзи",
+        "price": 10,
+        "quantity": 1,
+        "product_id": 1782379141047
+      }
+    ],
+    "order_number": 15,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "976661633",
+    "telegram_message_id": "48"
+  },
+  {
+    "id": "3e344be0-cd31-4b76-9a4a-b65b99c80442",
+    "created_at": "2026-07-01T02:05:39.737274+00:00",
+    "customer_name": "Умедчон И",
+    "customer_phone": "+992 92 440 1927",
+    "customer_address": "Кучаи Истак 43, пуличукур тарафи белый дом [Оплата: Банк (Alif)]",
+    "status": "processing",
+    "total_price": 167,
+    "items": [
+      {
+        "name": "Котлета \"Домашний\"",
+        "price": 20,
+        "quantity": 1,
+        "product_id": 1782377296565
+      },
+      {
+        "name": "Котлета \"Нарезной\"",
+        "price": 35,
+        "quantity": 1,
+        "product_id": 1782377333490
+      },
+      {
+        "name": "Гречка",
+        "price": 12,
+        "quantity": 1,
+        "product_id": 1782378645337
+      },
+      {
+        "name": "Пюре",
+        "price": 12,
+        "quantity": 1,
+        "product_id": 1782378767163
+      },
+      {
+        "name": "Суп Бахтиёр",
+        "price": 20,
+        "quantity": 1,
+        "product_id": 1782375582936
+      },
+      {
+        "name": "Хом Шӯрбо [гов]",
+        "price": 24,
+        "quantity": 1,
+        "product_id": 1782375724553
+      },
+      {
+        "name": "Рассольник",
+        "price": 17,
+        "quantity": 1,
+        "product_id": 1782375523869
+      },
+      {
+        "name": "Винегрет",
+        "price": 15,
+        "quantity": 1,
+        "product_id": 1782393886718
+      },
+      {
+        "name": "Зелёный (Средний)",
+        "price": 12,
+        "quantity": 1,
+        "product_id": 1782394083130
+      }
+    ],
+    "order_number": 10,
+    "branch": "Сырдаринский",
+    "payment_method": "bank",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "976661633",
+    "telegram_message_id": "41"
+  },
+  {
+    "id": "320927a6-6c51-4a32-9564-ea4d8d079579",
+    "created_at": "2026-07-04T13:20:59.313857+00:00",
+    "customer_name": "Амир абдуллоев",
+    "customer_phone": "+992927755430",
+    "customer_address": "Исмоили сомони 79 [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 350,
+    "items": [
+      {
+        "name": "Баран-лопатка",
+        "price": 330,
+        "quantity": 1,
+        "product_id": 1782376146044
+      },
+      {
+        "name": "Парламент",
+        "price": 20,
+        "quantity": 1,
+        "product_id": 1782394651334
+      }
+    ],
+    "order_number": 16,
+    "branch": "Кобул-тачик",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6171550006",
+    "telegram_message_id": "49"
+  },
+  {
+    "id": "afbf02f4-f0a1-4229-adbf-54b76f7eeb4a",
+    "created_at": "2026-07-02T10:38:36.302862+00:00",
+    "customer_name": "Aleks",
+    "customer_phone": "658843",
+    "customer_address": "kjgcevcebn [Оплата: Банк (Ориёнбанк)]",
+    "status": "completed",
+    "total_price": 68,
+    "items": [
+      {
+        "name": "Борщ",
+        "price": 17,
+        "quantity": 4,
+        "product_id": 1782375060308
+      }
+    ],
+    "order_number": 11,
+    "branch": "Кобул-тачик",
+    "payment_method": "bank",
+    "payment_bank": "Ориёнбанк",
+    "telegram_chat_id": "6171550006",
+    "telegram_message_id": "43"
+  },
+  {
+    "id": "52ac1f65-10ac-4887-b1a0-d9e337ecd408",
+    "created_at": "2026-07-02T12:33:42.124862+00:00",
+    "customer_name": "Пнгм",
+    "customer_phone": "68428",
+    "customer_address": "Плсолм [Оплата: Банк (Alif)]",
+    "status": "pending",
+    "total_price": 60,
+    "items": [
+      {
+        "name": "Салат \"Бахтиёр\"",
+        "price": 30,
+        "quantity": 2,
+        "product_id": 1782393810807
+      }
+    ],
+    "order_number": 12,
+    "branch": "Сырдаринский",
+    "payment_method": "bank",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "976661633",
+    "telegram_message_id": "44"
+  },
+  {
+    "id": "19634bf0-93e1-497e-a976-2b9e2e844141",
+    "created_at": "2026-07-02T12:34:07.307148+00:00",
+    "customer_name": "Пнгм",
+    "customer_phone": "68428",
+    "customer_address": "Плсолм [Оплата: Банк (Alif)]",
+    "status": "pending",
+    "total_price": 60,
+    "items": [
+      {
+        "name": "Винегрет",
+        "price": 15,
+        "quantity": 4,
+        "product_id": 1782393886718
+      }
+    ],
+    "order_number": 13,
+    "branch": "Кобул-тачик",
+    "payment_method": "bank",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6171550006",
+    "telegram_message_id": "45"
+  },
+  {
+    "id": "ce4ebe24-46f4-4172-b99a-31aac1e51a17",
+    "created_at": "2026-07-03T06:47:28.288546+00:00",
+    "customer_name": "Тест",
+    "customer_phone": "2222",
+    "customer_address": "Ппп [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 17,
+    "items": [
+      {
+        "name": "Мастова",
+        "price": 17,
+        "quantity": 1,
+        "product_id": 1782375440360
+      }
+    ],
+    "order_number": 14,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "976661633",
+    "telegram_message_id": "47"
+  },
+  {
+    "id": "8aec368a-1ea4-484f-91fd-9154aa62f973",
+    "created_at": "2026-07-04T17:27:02.794842+00:00",
+    "customer_name": "Hshs",
+    "customer_phone": "64950",
+    "customer_address": "Hsbshs [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 17,
+    "items": [
+      {
+        "name": "Борщ",
+        "price": 17,
+        "quantity": 1,
+        "product_id": 1782375060308
+      }
+    ],
+    "order_number": 17,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "51"
+  },
+  {
+    "id": "bd367c8d-baa2-4ccf-9502-8e01fbcc5872",
+    "created_at": "2026-07-08T09:55:50.344388+00:00",
+    "customer_name": "Гигиги",
+    "customer_phone": "5838388",
+    "customer_address": "7ршт [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 172,
+    "items": [
+      {
+        "name": "Нони Ассорти",
+        "price": 25,
+        "quantity": 1,
+        "product_id": 1782378955583
+      },
+      {
+        "name": "Колбасный-оливье",
+        "price": 17,
+        "quantity": 1,
+        "product_id": 1782394205164
+      },
+      {
+        "name": "Дум Шӯрбо",
+        "price": 25,
+        "quantity": 2,
+        "product_id": 1782375151920
+      },
+      {
+        "name": "Баран-рёбрышки",
+        "price": 80,
+        "quantity": 1,
+        "product_id": 1782376197770
+      }
+    ],
+    "order_number": 18,
+    "branch": "Кобул-тачик",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6171550006",
+    "telegram_message_id": "52"
+  },
+  {
+    "id": "63eea790-6fd9-4786-94a9-4267d7a5afd5",
+    "created_at": "2026-07-10T07:42:15.791087+00:00",
+    "customer_name": "Фируза",
+    "customer_phone": "921111422",
+    "customer_address": "Саидносир 38( кучаи мир)  [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 146,
+    "items": [
+      {
+        "name": "Салат \"Бахтиёр\"",
+        "price": 30,
+        "quantity": 2,
+        "product_id": 1782393810807
+      },
+      {
+        "name": "Свекольный с орехом",
+        "price": 13,
+        "quantity": 2,
+        "product_id": 1782394888287
+      },
+      {
+        "name": "Чигит",
+        "price": 30,
+        "quantity": 2,
+        "product_id": 1782395527041
+      }
+    ],
+    "order_number": 19,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Эсхата",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "53"
+  },
+  {
+    "id": "ef7c640c-3955-4796-85a6-adc8898a8303",
+    "created_at": "2026-07-10T11:25:05.085538+00:00",
+    "customer_name": "Hdbdb",
+    "customer_phone": "754454004",
+    "customer_address": "Hsbsvsd\\n [Оплата: Банк (DCity)]",
+    "status": "pending",
+    "total_price": 1111,
+    "items": [
+      {
+        "name": "Блюдо \"Регистан\"",
+        "price": 500,
+        "quantity": 1,
+        "product_id": 1782376543093
+      },
+      {
+        "name": "Блюдо от Шефа",
+        "price": 500,
+        "quantity": 1,
+        "product_id": 1782376431134
+      },
+      {
+        "name": "Бенджак",
+        "price": 30,
+        "quantity": 1,
+        "product_id": 1782376389615
+      },
+      {
+        "name": "Котлета \"Домашний\"",
+        "price": 20,
+        "quantity": 1,
+        "product_id": 1782377296565
+      },
+      {
+        "name": "Котлета \"Нарезной\"",
+        "price": 35,
+        "quantity": 1,
+        "product_id": 1782377333490
+      },
+      {
+        "name": "Фирменная упаковка большая",
+        "price": 10,
+        "quantity": 2,
+        "product_id": 0
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 3,
+        "product_id": 0
+      }
+    ],
+    "order_number": 20,
+    "branch": "Кобул-тачик",
+    "payment_method": "bank",
+    "payment_bank": "DCity",
+    "telegram_chat_id": "6171550006",
+    "telegram_message_id": "54"
+  },
+  {
+    "id": "3c05db1b-ea57-4081-8bc8-88965c554455",
+    "created_at": "2026-07-10T14:25:48.693435+00:00",
+    "customer_name": "Vivuvuc",
+    "customer_phone": "58015880",
+    "customer_address": "Vhvb [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 271,
+    "items": [
+      {
+        "name": "Тандӯр",
+        "price": 250,
+        "quantity": 1,
+        "product_id": 1782375940407
+      },
+      {
+        "name": "Щи-зелёный",
+        "price": 17,
+        "quantity": 1,
+        "product_id": 1782375851924
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 2,
+        "product_id": 0
+      }
+    ],
+    "order_number": 21,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "55"
+  },
+  {
+    "id": "359145fb-7d1a-4ae6-9313-8e6c88edfa19",
+    "created_at": "2026-07-17T14:01:40.371474+00:00",
+    "customer_name": "Abubakr ",
+    "customer_phone": "+992887887881",
+    "customer_address": "стол71 [Оплата: Банк (DCity)]",
+    "status": "pending",
+    "total_price": 22,
+    "items": [
+      {
+        "name": "Суп Сырный",
+        "price": 17,
+        "quantity": 1,
+        "product_id": 1782375612390
+      },
+      {
+        "name": "Кулча",
+        "price": 3,
+        "quantity": 1,
+        "product_id": 1782378929393
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 1,
+        "product_id": 0
+      }
+    ],
+    "order_number": 23,
+    "branch": "Сырдаринский",
+    "payment_method": "bank",
+    "payment_bank": "DCity",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "57"
+  },
+  {
+    "id": "92a8b54e-3115-4f47-b8a7-de3ee88723d2",
+    "created_at": "2026-07-19T09:52:19.844379+00:00",
+    "customer_name": "Daler",
+    "customer_phone": "+992100043520",
+    "customer_address": "6 [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 12,
+    "items": [
+      {
+        "name": "Зелёный (Маленький)",
+        "price": 10,
+        "quantity": 1,
+        "product_id": 1782394083130
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 1,
+        "product_id": 0
+      }
+    ],
+    "order_number": 26,
+    "branch": "Кобул-тачик",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6171550006",
+    "telegram_message_id": "60"
+  },
+  {
+    "id": "4a73ad48-79c1-4c13-bae3-24dd4fcd512d",
+    "created_at": "2026-07-19T14:52:44.032834+00:00",
+    "customer_name": "Фарида ",
+    "customer_phone": "+992072042552",
+    "customer_address": "19 МКР ДОМ 17А [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 110,
+    "items": [
+      {
+        "name": "Зелёный (Большой)",
+        "price": 20,
+        "quantity": 1,
+        "product_id": 1782394083130
+      },
+      {
+        "name": "Фарш [баранина]",
+        "price": 31,
+        "quantity": 2,
+        "product_id": 1782379734602
+      },
+      {
+        "name": "Каприз",
+        "price": 22,
+        "quantity": 1,
+        "product_id": 1782394156691
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 2,
+        "product_id": 0
+      },
+      {
+        "name": "Ланчик для шашлыка",
+        "price": 2,
+        "quantity": 1,
+        "product_id": 0
+      }
+    ],
+    "order_number": 27,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "61"
+  },
+  {
+    "id": "f4dcb1de-307f-4ade-9ff9-99aadcfe95d5",
+    "created_at": "2026-07-18T09:59:44.599278+00:00",
+    "customer_name": "Овлвт",
+    "customer_phone": "65648",
+    "customer_address": "Гцруиу [Оплата: Банк (DCity)]",
+    "status": "cancelled",
+    "total_price": 48,
+    "items": [
+      {
+        "name": "Башня",
+        "price": 22,
+        "quantity": 2,
+        "product_id": 1782393843800
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 2,
+        "product_id": 0
+      }
+    ],
+    "order_number": 24,
+    "branch": "Кобул-тачик",
+    "payment_method": "bank",
+    "payment_bank": "DCity",
+    "telegram_chat_id": "6171550006",
+    "telegram_message_id": "58"
+  },
+  {
+    "id": "fc8a6764-5045-4a54-8ec5-40480cce5ee9",
+    "created_at": "2026-07-18T17:17:43.451779+00:00",
+    "customer_name": ". ",
+    "customer_phone": "926183435",
+    "customer_address": "Стол  11. [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 86,
+    "items": [
+      {
+        "name": "Зелёный (Маленький)",
+        "price": 10,
+        "quantity": 1,
+        "product_id": 1782394083130
+      },
+      {
+        "name": "Фрукты Ассорти [1кг]",
+        "price": 45,
+        "quantity": 1,
+        "product_id": 1782395306255
+      },
+      {
+        "name": "Фруктовый",
+        "price": 25,
+        "quantity": 1,
+        "product_id": 1782395247294
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 3,
+        "product_id": 0
+      }
+    ],
+    "order_number": 25,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "59"
+  },
+  {
+    "id": "a86a066f-b805-422b-9d95-0dc57e30011a",
+    "created_at": "2026-07-21T13:53:19.735462+00:00",
+    "customer_name": "Шавкат Набиев",
+    "customer_phone": "+992927735558",
+    "customer_address": "4 стол [Оплата: Банк (Alif)]",
+    "status": "pending",
+    "total_price": 356,
+    "items": [
+      {
+        "name": "Нони Ассорти",
+        "price": 25,
+        "quantity": 1,
+        "product_id": 1782378955583
+      },
+      {
+        "name": "Мужской-каприз",
+        "price": 25,
+        "quantity": 1,
+        "product_id": 1782394351558
+      },
+      {
+        "name": "Фрукты Ассорти [1кг]",
+        "price": 45,
+        "quantity": 1,
+        "product_id": 1782395306255
+      },
+      {
+        "name": "Илик Шӯрбо [баранина]",
+        "price": 35,
+        "quantity": 1,
+        "product_id": 1782375238002
+      },
+      {
+        "name": "Баран-рёбрышки",
+        "price": 80,
+        "quantity": 1,
+        "product_id": 1782376197770
+      },
+      {
+        "name": "Мохито",
+        "price": 50,
+        "quantity": 1,
+        "product_id": 1783330188622
+      },
+      {
+        "name": "Каприз",
+        "price": 22,
+        "quantity": 1,
+        "product_id": 1782394156691
+      },
+      {
+        "name": "Мясо с грибами",
+        "price": 45,
+        "quantity": 1,
+        "product_id": 1782377859973
+      },
+      {
+        "name": "Фри",
+        "price": 15,
+        "quantity": 1,
+        "product_id": 1782378593149
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 7,
+        "product_id": 0
+      }
+    ],
+    "order_number": 28,
+    "branch": "Сырдаринский",
+    "payment_method": "bank",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "62"
+  },
+  {
+    "id": "d37fc0aa-ff85-401d-a474-9045071ff663",
+    "created_at": "2026-07-22T13:26:47.157683+00:00",
+    "customer_name": "Иско",
+    "customer_phone": "+992928646447",
+    "customer_address": "Камоли Хучанди, дом 123. [Оплата: Банк (DCity)]",
+    "status": "pending",
+    "total_price": 379,
+    "items": [
+      {
+        "name": "Фарш [баранина]",
+        "price": 31,
+        "quantity": 12,
+        "product_id": 1782379734602
+      },
+      {
+        "name": "Ланчик большой",
+        "price": 5,
+        "quantity": 1,
+        "product_id": 0
+      },
+      {
+        "name": "Ланчик для шашлыка",
+        "price": 2,
+        "quantity": 1,
+        "product_id": 0
+      }
+    ],
+    "order_number": 29,
+    "branch": "Сырдаринский",
+    "payment_method": "bank",
+    "payment_bank": "DCity",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "63"
+  },
+  {
+    "id": "06e14c18-42e3-431d-956e-f058f6caea82",
+    "created_at": "2026-07-24T04:57:17.443366+00:00",
+    "customer_name": "Абду",
+    "customer_phone": "+992 92 770 55 47",
+    "customer_address": "Улица А.Зоидов 14 [Оплата: Банк (Alif)]",
+    "status": "pending",
+    "total_price": 16,
+    "items": [
+      {
+        "name": "Fanta [1.0]",
+        "price": 10,
+        "quantity": 1,
+        "product_id": 1783329530030
+      },
+      {
+        "name": "Fanta [0.5]",
+        "price": 6,
+        "quantity": 1,
+        "product_id": 1783329540040
+      }
+    ],
+    "order_number": 30,
+    "branch": "Кобул-тачик",
+    "payment_method": "bank",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6171550006",
+    "telegram_message_id": "64"
+  },
+  {
+    "id": "00416f48-d586-415f-8877-772ac2db4665",
+    "created_at": "2026-07-25T11:10:50.73686+00:00",
+    "customer_name": "Дилнора",
+    "customer_phone": "992999335884",
+    "customer_address": "Кафе Бахтиер [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 442,
+    "items": [
+      {
+        "name": "Салат \"Бахтиёр\"",
+        "price": 30,
+        "quantity": 2,
+        "product_id": 1782393810807
+      },
+      {
+        "name": "Влюблённый",
+        "price": 30,
+        "quantity": 2,
+        "product_id": 1782393928452
+      },
+      {
+        "name": "Грибной-салат",
+        "price": 22,
+        "quantity": 2,
+        "product_id": 1782394012450
+      },
+      {
+        "name": "Каприз",
+        "price": 22,
+        "quantity": 1,
+        "product_id": 1782394156691
+      },
+      {
+        "name": "Зелёный (Маленький)",
+        "price": 10,
+        "quantity": 2,
+        "product_id": 1782394083130
+      },
+      {
+        "name": "Щи-зелёный",
+        "price": 17,
+        "quantity": 1,
+        "product_id": 1782375851924
+      },
+      {
+        "name": "Реза Шӯрбо",
+        "price": 18,
+        "quantity": 2,
+        "product_id": 1782375551179
+      },
+      {
+        "name": "Рассольник",
+        "price": 17,
+        "quantity": 1,
+        "product_id": 1782375523869
+      },
+      {
+        "name": "Суп Сырный",
+        "price": 17,
+        "quantity": 1,
+        "product_id": 1782375612390
+      },
+      {
+        "name": "Мастова",
+        "price": 17,
+        "quantity": 1,
+        "product_id": 1782375440360
+      },
+      {
+        "name": "Хом Шӯрбо [гӯсфанд]",
+        "price": 32,
+        "quantity": 3,
+        "product_id": 1782375766131
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 18,
+        "product_id": 0
+      }
+    ],
+    "order_number": 31,
+    "branch": "Кобул-тачик",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6171550006",
+    "telegram_message_id": "65"
+  },
+  {
+    "id": "04694417-5b15-4736-b1bf-1d54dd2adddd",
+    "created_at": "2026-07-28T06:56:07.774491+00:00",
+    "customer_name": "Нигина ",
+    "customer_phone": "928627444",
+    "customer_address": "28мкр навбунёд 28 [Оплата: Банк (DCity)]",
+    "status": "pending",
+    "total_price": 150,
+    "items": [
+      {
+        "name": "Кулча",
+        "price": 3,
+        "quantity": 1,
+        "product_id": 1782378929393
+      },
+      {
+        "name": "Забон Шӯрбо [баранина]",
+        "price": 30,
+        "quantity": 1,
+        "product_id": 1782375199240
+      },
+      {
+        "name": "Фарш [баранина]",
+        "price": 31,
+        "quantity": 1,
+        "product_id": 1782379734602
+      },
+      {
+        "name": "Вырезка",
+        "price": 40,
+        "quantity": 1,
+        "product_id": 1782379516603
+      },
+      {
+        "name": "Шашлык \"Рулет\"",
+        "price": 42,
+        "quantity": 1,
+        "product_id": 1782379852595
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 1,
+        "product_id": 0
+      },
+      {
+        "name": "Ланчик для шашлыка",
+        "price": 2,
+        "quantity": 1,
+        "product_id": 0
+      }
+    ],
+    "order_number": 32,
+    "branch": "Кобул-тачик",
+    "payment_method": "bank",
+    "payment_bank": "DCity",
+    "telegram_chat_id": "6171550006",
+    "telegram_message_id": "66"
+  },
+  {
+    "id": "b52be4c2-afc3-44ef-81e0-584d8208bec3",
+    "created_at": "2026-08-01T12:25:05.917257+00:00",
+    "customer_name": "Тест",
+    "customer_phone": "53535",
+    "customer_address": "Тест [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 12,
+    "items": [
+      {
+        "name": "Бублик",
+        "price": 12,
+        "quantity": 1,
+        "product_id": 1782378892204
+      }
+    ],
+    "order_number": 33,
+    "branch": "Кобул-тачик",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "null",
+    "telegram_message_id": "null"
+  },
+  {
+    "id": "5770b6e9-8429-4128-8f05-5750fc343de8",
+    "created_at": "2026-08-01T12:34:57.616628+00:00",
+    "customer_name": "Тест",
+    "customer_phone": "5345353",
+    "customer_address": "Тест [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 12,
+    "items": [
+      {
+        "name": "Бублик",
+        "price": 12,
+        "quantity": 1,
+        "product_id": 1782378892204
+      }
+    ],
+    "order_number": 34,
+    "branch": "Кобул-тачик",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "null",
+    "telegram_message_id": "null"
+  },
+  {
+    "id": "ceef9784-8135-4e1c-a210-1eb28fbb31d6",
+    "created_at": "2026-08-01T12:41:11.92421+00:00",
+    "customer_name": "Test",
+    "customer_phone": "975284",
+    "customer_address": "Test [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 32,
+    "items": [
+      {
+        "name": "Салат \"Бахтиёр\"",
+        "price": 30,
+        "quantity": 1,
+        "product_id": 1782393810807
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 1,
+        "product_id": 0
+      }
+    ],
+    "order_number": 35,
+    "branch": "Кобул-тачик",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "null",
+    "telegram_message_id": "null"
+  },
+  {
+    "id": "c9fd8a3c-bbd2-41ca-8c28-55d28729f6fa",
+    "created_at": "2026-08-01T12:42:00.343868+00:00",
+    "customer_name": "ckjencbr",
+    "customer_phone": "jcejcbrb",
+    "customer_address": "jcbrcbrbr [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 12,
+    "items": [
+      {
+        "name": "Бублик",
+        "price": 12,
+        "quantity": 1,
+        "product_id": 1782378892204
+      }
+    ],
+    "order_number": 36,
+    "branch": "Кобул-тачик",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "null",
+    "telegram_message_id": "null"
+  },
+  {
+    "id": "4b7df1eb-fe27-4711-ad54-feb0a09ff1be",
+    "created_at": "2026-08-01T12:49:36.63973+00:00",
+    "customer_name": "пекиеиик",
+    "customer_phone": "54363",
+    "customer_address": "оиыщисц [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 12,
+    "items": [
+      {
+        "name": "Бублик",
+        "price": 12,
+        "quantity": 1,
+        "product_id": 1782378892204
+      }
+    ],
+    "order_number": 37,
+    "branch": "Кобул-тачик",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "null",
+    "telegram_message_id": "null"
+  },
+  {
+    "id": "1455c3d2-42e8-4fe6-bc51-3f0f86ad5acc",
+    "created_at": "2026-08-01T12:53:17.76152+00:00",
+    "customer_name": "мкмкм",
+    "customer_phone": "4343543",
+    "customer_address": "лумиум [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 12,
+    "items": [
+      {
+        "name": "Бублик",
+        "price": 12,
+        "quantity": 1,
+        "product_id": 1782378892204
+      }
+    ],
+    "order_number": 38,
+    "branch": "Кобул-тачик",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "null",
+    "telegram_message_id": "null"
+  },
+  {
+    "id": "5635e3fc-0cc0-4bbe-927f-746a094e980c",
+    "created_at": "2026-08-01T12:55:13.138409+00:00",
+    "customer_name": "укмукмкум",
+    "customer_phone": "644364",
+    "customer_address": "акмкмм [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 12,
+    "items": [
+      {
+        "name": "Бублик",
+        "price": 12,
+        "quantity": 1,
+        "product_id": 1782378892204
+      }
+    ],
+    "order_number": 39,
+    "branch": "Кобул-тачик",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6171550006",
+    "telegram_message_id": "6"
+  },
+  {
+    "id": "7603d126-5247-46f1-be64-bb49d2cfcc88",
+    "created_at": "2026-08-01T12:56:45.207541+00:00",
+    "customer_name": "Test",
+    "customer_phone": "Test",
+    "customer_address": "Test [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 12,
+    "items": [
+      {
+        "name": "Бублик",
+        "price": 12,
+        "quantity": 1,
+        "product_id": 1782378892204
+      }
+    ],
+    "order_number": 40,
+    "branch": "Кобул-тачик",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6171550006",
+    "telegram_message_id": "8"
+  },
+  {
+    "id": "f520d58f-86cf-462d-8424-3277a36d8e75",
+    "created_at": "2026-08-01T12:57:06.736084+00:00",
+    "customer_name": "Test",
+    "customer_phone": "Test",
+    "customer_address": "Test [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 12,
+    "items": [
+      {
+        "name": "Бублик",
+        "price": 12,
+        "quantity": 1,
+        "product_id": 1782378892204
+      }
+    ],
+    "order_number": 41,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "9"
+  },
+  {
+    "id": "92b3ae30-e6c3-45c7-9eb9-464e100ad770",
+    "created_at": "2026-08-06T07:14:56.559308+00:00",
+    "customer_name": "Test",
+    "customer_phone": "Test",
+    "customer_address": "Test [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 12,
+    "items": [
+      {
+        "name": "Бублик",
+        "price": 12,
+        "quantity": 1,
+        "product_id": 1782378892204
+      }
+    ],
+    "order_number": 42,
+    "branch": "Кобул-тачик",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6171550006",
+    "telegram_message_id": "15"
+  },
+  {
+    "id": "117437b7-a113-49c9-b817-a1b732453255",
+    "created_at": "2026-08-06T12:22:41.177524+00:00",
+    "customer_name": "Содиков Амир",
+    "customer_phone": "+992927646447",
+    "customer_address": "г.Худжанд, ул.Камоли Худжанди 123, рядом с бывшим тарабхона Чоршанбе [Оплата: Банк (Alif)]",
+    "status": "pending",
+    "total_price": 475,
+    "items": [
+      {
+        "name": "Каприз",
+        "price": 22,
+        "quantity": 2,
+        "product_id": 1782394156691
+      },
+      {
+        "name": "Султан",
+        "price": 22,
+        "quantity": 2,
+        "product_id": 1782394965191
+      },
+      {
+        "name": "Фарш [баранина]",
+        "price": 31,
+        "quantity": 12,
+        "product_id": 1782379734602
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 4,
+        "product_id": 0
+      },
+      {
+        "name": "Ланчик большой",
+        "price": 5,
+        "quantity": 1,
+        "product_id": 0
+      },
+      {
+        "name": "Ланчик для шашлыка",
+        "price": 2,
+        "quantity": 1,
+        "product_id": 0
+      }
+    ],
+    "order_number": 43,
+    "branch": "Сырдаринский",
+    "payment_method": "bank",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "16"
+  },
+  {
+    "id": "db4117a9-4115-457d-ae53-07f50b1b968c",
+    "created_at": "2026-08-09T15:39:01.021086+00:00",
+    "customer_name": "Олимжон",
+    "customer_phone": "909994142",
+    "customer_address": "Столи 38 [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 95,
+    "items": [
+      {
+        "name": "Илик Шӯрбо [баранина]",
+        "price": 35,
+        "quantity": 2,
+        "product_id": 1782375238002
+      },
+      {
+        "name": "Свежий (Маленький)",
+        "price": 10,
+        "quantity": 1,
+        "product_id": 1782394850738
+      },
+      {
+        "name": "Кулча",
+        "price": 3,
+        "quantity": 3,
+        "product_id": 1782378929393
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 3,
+        "product_id": 0
+      }
+    ],
+    "order_number": 44,
+    "branch": "Кобул-тачик",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6171550006",
+    "telegram_message_id": "17"
+  },
+  {
+    "id": "5e107aa2-e608-4c75-afd2-6b766541b273",
+    "created_at": "2026-08-10T11:03:34.907909+00:00",
+    "customer_name": "Test",
+    "customer_phone": "754454004",
+    "customer_address": "Test [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 12,
+    "items": [
+      {
+        "name": "Бублик",
+        "price": 12,
+        "quantity": 1,
+        "product_id": 1782378892204
+      }
+    ],
+    "order_number": 45,
+    "branch": "Кобул-тачик",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6171550006",
+    "telegram_message_id": "19"
+  },
+  {
+    "id": "95ad9957-58e3-4068-814f-1227f8183754",
+    "created_at": "2026-08-10T11:05:24.944987+00:00",
+    "customer_name": "Test",
+    "customer_phone": "754454004",
+    "customer_address": "Test [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 12,
+    "items": [
+      {
+        "name": "Бублик",
+        "price": 12,
+        "quantity": 1,
+        "product_id": 1782378892204
+      }
+    ],
+    "order_number": 46,
+    "branch": "Кобул-тачик",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "5279387950",
+    "telegram_message_id": "21"
+  },
+  {
+    "id": "28fd0db4-a42e-46bd-802c-4463142fc7ec",
+    "created_at": "2026-08-12T07:45:14.966257+00:00",
+    "customer_name": "Дилноза ",
+    "customer_phone": "926450895",
+    "customer_address": "Универмаг магазин Молекула \nРядом Дубай мобайл  [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 50,
+    "items": [
+      {
+        "name": "Хрустящий баклажан",
+        "price": 30,
+        "quantity": 1,
+        "product_id": 1782395377576
+      },
+      {
+        "name": "Рис с овощами (0.5 порции)",
+        "price": 8,
+        "quantity": 1,
+        "product_id": 1782378826819
+      },
+      {
+        "name": "Пюре (0.5 порции)",
+        "price": 6,
+        "quantity": 1,
+        "product_id": 1782378767163
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 3,
+        "product_id": 0
+      }
+    ],
+    "order_number": 47,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "22"
+  },
+  {
+    "id": "254d37ab-28de-485e-96e3-ba259ccb880a",
+    "created_at": "2026-08-12T15:09:39.220412+00:00",
+    "customer_name": "Мирзолатиф",
+    "customer_phone": "927230016",
+    "customer_address": "19 мкр дом муртаз  13 подезд аз тарафи боло [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 161,
+    "items": [
+      {
+        "name": "Щи-зелёный",
+        "price": 17,
+        "quantity": 2,
+        "product_id": 1782375851924
+      },
+      {
+        "name": "Хом Шӯрбо [гӯсфанд]",
+        "price": 32,
+        "quantity": 1,
+        "product_id": 1782375766131
+      },
+      {
+        "name": "Илик Шӯрбо",
+        "price": 30,
+        "quantity": 1,
+        "product_id": 1782375363782
+      },
+      {
+        "name": "Джавари",
+        "price": 17,
+        "quantity": 1,
+        "product_id": 1782375116331
+      },
+      {
+        "name": "Суп-фрикадельки",
+        "price": 20,
+        "quantity": 1,
+        "product_id": 1786388057083
+      },
+      {
+        "name": "Хлеб",
+        "price": 7,
+        "quantity": 1,
+        "product_id": 1782379172122
+      },
+      {
+        "name": "Кулча",
+        "price": 3,
+        "quantity": 3,
+        "product_id": 1782378929393
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 6,
+        "product_id": 0
+      }
+    ],
+    "order_number": 48,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "23"
+  },
+  {
+    "id": "39caad38-6fbb-4b7a-8c0e-a77aa1b19ffc",
+    "created_at": "2026-08-12T15:46:36.787844+00:00",
+    "customer_name": "Аабб",
+    "customer_phone": "992550150777",
+    "customer_address": "20 мкр дом 13б  [Оплата: Банк (Alif)]",
+    "status": "pending",
+    "total_price": 243,
+    "items": [
+      {
+        "name": "Отбивной по итальянски",
+        "price": 70,
+        "quantity": 1,
+        "product_id": 1782377918489
+      },
+      {
+        "name": "Бенджак",
+        "price": 30,
+        "quantity": 1,
+        "product_id": 1782376389615
+      },
+      {
+        "name": "Бурата",
+        "price": 75,
+        "quantity": 1,
+        "product_id": 1786387291624
+      },
+      {
+        "name": "Табака",
+        "price": 60,
+        "quantity": 1,
+        "product_id": 1782378204743
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 4,
+        "product_id": 0
+      }
+    ],
+    "order_number": 49,
+    "branch": "Сырдаринский",
+    "payment_method": "bank",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "24"
+  },
+  {
+    "id": "3b5aede9-a0fb-48b3-927b-af0e4ae6213b",
+    "created_at": "2026-08-13T10:56:59.827683+00:00",
+    "customer_name": "Шохрух ",
+    "customer_phone": "+992927184959",
+    "customer_address": "34 микрорайон Букмекерская рахш  [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 31.5,
+    "items": [
+      {
+        "name": "Хлеб (0.5 порции)",
+        "price": 3.5,
+        "quantity": 1,
+        "product_id": 1782379172122
+      },
+      {
+        "name": "Зелёный (Маленький)",
+        "price": 10,
+        "quantity": 1,
+        "product_id": 1782394083130
+      },
+      {
+        "name": "Пюре (0.5 порции)",
+        "price": 6,
+        "quantity": 1,
+        "product_id": 1782378767163
+      },
+      {
+        "name": "Гречка (0.5 порции)",
+        "price": 6,
+        "quantity": 1,
+        "product_id": 1782378645337
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 3,
+        "product_id": 0
+      }
+    ],
+    "order_number": 50,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "25"
+  },
+  {
+    "id": "db0d339d-ec8b-4bc2-ad9d-3ca887e5a232",
+    "created_at": "2026-08-13T14:19:13.665146+00:00",
+    "customer_name": "Надима ",
+    "customer_phone": "710015555",
+    "customer_address": "19 мкр на против  Истиклола Авеню  [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 307,
+    "items": [
+      {
+        "name": "Кулча",
+        "price": 3,
+        "quantity": 2,
+        "product_id": 1782378929393
+      },
+      {
+        "name": "Нисуаз",
+        "price": 62,
+        "quantity": 1,
+        "product_id": 1786387356760
+      },
+      {
+        "name": "Фри",
+        "price": 15,
+        "quantity": 2,
+        "product_id": 1782378593149
+      },
+      {
+        "name": "Фарш [гов]",
+        "price": 28,
+        "quantity": 2,
+        "product_id": 1782379774466
+      },
+      {
+        "name": "Нежный",
+        "price": 29,
+        "quantity": 1,
+        "product_id": 1782379626532
+      },
+      {
+        "name": "Крылышки",
+        "price": 70,
+        "quantity": 1,
+        "product_id": 1782379598003
+      },
+      {
+        "name": "Оби-Зулол [0.5]",
+        "price": 4,
+        "quantity": 4,
+        "product_id": 1783330283715
+      },
+      {
+        "name": "Сок \"Добрый\"",
+        "price": 30,
+        "quantity": 1,
+        "product_id": 1784742672579
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 3,
+        "product_id": 0
+      },
+      {
+        "name": "Ланчик для шашлыка",
+        "price": 2,
+        "quantity": 1,
+        "product_id": 0
+      }
+    ],
+    "order_number": 51,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "26"
+  },
+  {
+    "id": "14cbe774-998d-4ba9-a1c9-8d4a2f9d7fcd",
+    "created_at": "2026-08-13T14:21:49.467251+00:00",
+    "customer_name": "Аслиябону",
+    "customer_phone": "926101210",
+    "customer_address": "19 мкр дом муртаз 13 подезд а тарафи боло [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 225,
+    "items": [
+      {
+        "name": "Салат от шефа",
+        "price": 22,
+        "quantity": 1,
+        "product_id": 1782394601999
+      },
+      {
+        "name": "Джавари",
+        "price": 17,
+        "quantity": 1,
+        "product_id": 1782375116331
+      },
+      {
+        "name": "Говядина",
+        "price": 36,
+        "quantity": 3,
+        "product_id": 1782379572309
+      },
+      {
+        "name": "Фарш [гов]",
+        "price": 28,
+        "quantity": 1,
+        "product_id": 1782379774466
+      },
+      {
+        "name": "Шашлык \"Ассорти\"",
+        "price": 30,
+        "quantity": 1,
+        "product_id": 1782379379679
+      },
+      {
+        "name": "Нони Фатир",
+        "price": 7,
+        "quantity": 2,
+        "product_id": 1782378985816
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 2,
+        "product_id": 0
+      },
+      {
+        "name": "Ланчик для шашлыка",
+        "price": 2,
+        "quantity": 1,
+        "product_id": 0
+      }
+    ],
+    "order_number": 52,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "27"
+  },
+  {
+    "id": "cb77ce45-cfb4-4558-9e43-4cf9c78ace65",
+    "created_at": "2026-08-15T13:02:18.913885+00:00",
+    "customer_name": "Татьяна ",
+    "customer_phone": "+992889526000",
+    "customer_address": "Фирдавси 107\nЗа магазином Анис\nОбратите внимание а то 2 таких адреса в городе  [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 155,
+    "items": [
+      {
+        "name": "Свежий (Маленький)",
+        "price": 10,
+        "quantity": 1,
+        "product_id": 1782394850738
+      },
+      {
+        "name": "Бедона-жаренный",
+        "price": 25,
+        "quantity": 3,
+        "product_id": 1782376357270
+      },
+      {
+        "name": "Хрустящий Табакак с соусом",
+        "price": 60,
+        "quantity": 1,
+        "product_id": 1782378285582
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 5,
+        "product_id": 0
+      }
+    ],
+    "order_number": 53,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "28"
+  },
+  {
+    "id": "ef7e9a7f-eea4-4601-8937-9920b57df800",
+    "created_at": "2026-08-15T15:21:31.88343+00:00",
+    "customer_name": "Обидова Шохина",
+    "customer_phone": "+992928484990",
+    "customer_address": "Ул. Мира, Саид Носир 42 [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 19,
+    "items": [
+      {
+        "name": "Суп Сырный",
+        "price": 17,
+        "quantity": 1,
+        "product_id": 1782375612390
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 1,
+        "product_id": 0
+      }
+    ],
+    "order_number": 54,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "29"
+  },
+  {
+    "id": "4517af63-69e8-45b1-a0c7-6d3e8ddf94d5",
+    "created_at": "2026-08-16T09:05:47.952917+00:00",
+    "customer_name": "Надима ",
+    "customer_phone": "710015555",
+    "customer_address": "19 мкр, Элит Сохтмон 4, 1б  [Оплата: Банк (Alif)]",
+    "status": "pending",
+    "total_price": 228,
+    "items": [
+      {
+        "name": "Суп Сырный",
+        "price": 17,
+        "quantity": 1,
+        "product_id": 1782375612390
+      },
+      {
+        "name": "Фарш [гов]",
+        "price": 28,
+        "quantity": 2,
+        "product_id": 1782379774466
+      },
+      {
+        "name": "Крылышки",
+        "price": 70,
+        "quantity": 1,
+        "product_id": 1782379598003
+      },
+      {
+        "name": "Картошка по домашнему",
+        "price": 30,
+        "quantity": 1,
+        "product_id": 1782378679911
+      },
+      {
+        "name": "Салат от шефа",
+        "price": 22,
+        "quantity": 1,
+        "product_id": 1782394601999
+      },
+      {
+        "name": "Нони Ассорти",
+        "price": 25,
+        "quantity": 1,
+        "product_id": 1782378955583
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 3,
+        "product_id": 0
+      },
+      {
+        "name": "Ланчик для шашлыка",
+        "price": 2,
+        "quantity": 1,
+        "product_id": 0
+      }
+    ],
+    "order_number": 55,
+    "branch": "Сырдаринский",
+    "payment_method": "bank",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "31"
+  },
+  {
+    "id": "7783cc29-784f-4cee-a864-80d372951c4d",
+    "created_at": "2026-08-17T14:24:17.912922+00:00",
+    "customer_name": "Абдулло",
+    "customer_phone": "+992903016662",
+    "customer_address": "19 микрорайон доми 16 А подъезд 5 [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 116,
+    "items": [
+      {
+        "name": "Фарш [гов]",
+        "price": 28,
+        "quantity": 2,
+        "product_id": 1782379774466
+      },
+      {
+        "name": "Нежный",
+        "price": 29,
+        "quantity": 2,
+        "product_id": 1782379626532
+      },
+      {
+        "name": "Ланчик для шашлыка",
+        "price": 2,
+        "quantity": 1,
+        "product_id": 0
+      }
+    ],
+    "order_number": 56,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "34"
+  },
+  {
+    "id": "2739db8e-0344-4dde-8fb2-09c809025219",
+    "created_at": "2026-08-17T14:36:53.488426+00:00",
+    "customer_name": "Маруфхон",
+    "customer_phone": "926002168",
+    "customer_address": "19 мкр доммМуртаз 13 подезд а тарафи боло [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 186,
+    "items": [
+      {
+        "name": "Салат от шефа",
+        "price": 22,
+        "quantity": 1,
+        "product_id": 1782394601999
+      },
+      {
+        "name": "Парламент",
+        "price": 20,
+        "quantity": 1,
+        "product_id": 1782394651334
+      },
+      {
+        "name": "Французский",
+        "price": 22,
+        "quantity": 1,
+        "product_id": 1782395146478
+      },
+      {
+        "name": "Хом Шӯрбо [гӯсфанд]",
+        "price": 32,
+        "quantity": 1,
+        "product_id": 1782375766131
+      },
+      {
+        "name": "Щи-зелёный",
+        "price": 17,
+        "quantity": 2,
+        "product_id": 1782375851924
+      },
+      {
+        "name": "Суп-фрикадельки",
+        "price": 20,
+        "quantity": 2,
+        "product_id": 1786388057083
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 8,
+        "product_id": 0
+      }
+    ],
+    "order_number": 57,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "35"
+  },
+  {
+    "id": "2fd103c8-2e8d-471f-88ed-515fe450d3b7",
+    "created_at": "2026-08-23T13:31:06.849381+00:00",
+    "customer_name": "Амирчон",
+    "customer_phone": "997990558",
+    "customer_address": "Кабина 6 [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 200,
+    "items": [
+      {
+        "name": "Суп Бахтиёр",
+        "price": 20,
+        "quantity": 6,
+        "product_id": 1782375582936
+      },
+      {
+        "name": "Нони Фатир",
+        "price": 7,
+        "quantity": 4,
+        "product_id": 1782378985816
+      },
+      {
+        "name": "Хлеб",
+        "price": 7,
+        "quantity": 1,
+        "product_id": 1782379172122
+      },
+      {
+        "name": "Фарш [баранина]",
+        "price": 31,
+        "quantity": 1,
+        "product_id": 1782379734602
+      },
+      {
+        "name": "Фирменный ланчик маленький",
+        "price": 2,
+        "quantity": 6,
+        "product_id": 0
+      },
+      {
+        "name": "Ланчик для шашлыка",
+        "price": 2,
+        "quantity": 1,
+        "product_id": 0
+      }
+    ],
+    "order_number": 58,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "36"
+  },
+  {
+    "id": "5682be71-24f4-4b84-bd44-667d7a49ae17",
+    "created_at": "2026-08-23T13:34:10.829279+00:00",
+    "customer_name": "Амирчон",
+    "customer_phone": "997990558",
+    "customer_address": "Кабина 6 [Оплата: Наличные]",
+    "status": "pending",
+    "total_price": 101,
+    "items": [
+      {
+        "name": "RC-Cola [1.5]",
+        "price": 17,
+        "quantity": 3,
+        "product_id": 1783329872290
+      },
+      {
+        "name": "Лимонад №1",
+        "price": 10,
+        "quantity": 2,
+        "product_id": 1783330148253
+      },
+      {
+        "name": "Сиёма Дюшес",
+        "price": 15,
+        "quantity": 2,
+        "product_id": 1783329933588
+      }
+    ],
+    "order_number": 59,
+    "branch": "Сырдаринский",
+    "payment_method": "cash",
+    "payment_bank": "Alif",
+    "telegram_chat_id": "6284283308",
+    "telegram_message_id": "37"
+  }
+]

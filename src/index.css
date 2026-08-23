@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:wght@400;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-serif: 'Playfair Display', 'Times New Roman', serif;
+}
+
+/* СВЕТЛАЯ ТЕМА */
+:root {
+  color-scheme: light;
+  --bg-page: transparent;
+  --bg-page-gradient: transparent;
+  --bg-card: rgba(255, 255, 255, 0.9);
+  --bg-card-hover: rgba(255, 255, 255, 0.95);
+  --border-color: rgba(229, 231, 235, 0.5);
+  --text-primary: #111827;
+  --text-secondary: #4B5563;
+  --text-muted: #9CA3AF;
+  --accent-gold: #D97706;
+  --accent-gold-light: #F59E0B;
+  --accent-gold-text: #FFFFFF;
+  --icon-color: #6B7280;
+  --chevron-color: #D1D5DB;
+  --toggle-bg: #F3F4F6;
+  --toggle-text: #4B5563;
+  --hover-bg: #F3F4F6;
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-gold: 0 4px 14px 0 rgba(217, 119, 6, 0.2);
+}
+
+/* ТЁМНАЯ ТЕМА */
+.dark {
+  color-scheme: dark;
+  --bg-page: transparent;
+  --bg-page-gradient: transparent;
+  --bg-card: rgba(31, 41, 55, 0.85);
+  --bg-card-hover: rgba(31, 41, 55, 0.95);
+  --border-color: rgba(55, 65, 81, 0.5);
+  --text-primary: #F9FAFB;
+  --text-secondary: #D1D5DB;
+  --text-muted: #9CA3AF;
+  --accent-gold: #F59E0B;
+  --accent-gold-light: #FBBF24;
+  --accent-gold-text: #111827;
+  --icon-color: #9CA3AF;
+  --chevron-color: #4B5563;
+  --toggle-bg: #374151;
+  --toggle-text: #D1D5DB;
+  --hover-bg: #374151;
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.2), 0 2px 4px -1px rgba(0, 0, 0, 0.1);
+  --shadow-gold: 0 4px 14px 0 rgba(245, 158, 11, 0.2);
+}
+
+@layer base {
+  body {
+    @apply antialiased;
+    font-family: 'Inter', sans-serif;
+    color: var(--text-primary);
+  }
+
+  body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -2;
+    background-image: url('./assets/images/1784044434133-23feq.webp');
+    background-size: cover;
+    background-position: left center;
+  }
+
+  @media (min-width: 1024px) {
+    body::before {
+      background-position: center;
+    }
+  }
+
+  body::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+
+  .dark body::after {
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+
+  .dark body::before {
+    background-image: url('./assets/images/1784044434133-23feq.webp');
+  }
+}
+
+/* Скроллбар */
+::-webkit-scrollbar { display: none; }
+* { scrollbar-width: none; -ms-overflow-style: none; }
